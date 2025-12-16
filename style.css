@@ -1,0 +1,106 @@
+.ota{
+    max-width: 1440px;
+    width: 100%;
+    height: 720px;
+    background-color: #F3D7B7;
+}
+nav ul {
+    display: flex;
+    gap: 20px;
+}
+nav ul li{
+    list-style: none;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+}
+.hop{
+    max-width: 270px;
+    width: 100%;
+    height: 85px;
+    margin-left: 150px;
+    margin-top: 140px;
+}
+.hop1{
+    max-width: 500px;
+    width: 100%;
+    height: 390px;
+    background-image: url(./images/Rectangle\ 679.svg); 
+    margin-left: 600px;
+    margin-top: -100px;
+}
+.hop2{
+    transform: rotate(10deg);
+    margin-top: -100px;
+    margin-left: -100px;
+}
+
+.hop3{
+    max-width: 1445px;
+    width: 100%;
+}
+.hop4{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.hop5{
+    margin-left: 800px;
+    margin-top: -400px;
+}
+.hop6{
+    width: 746px;
+    height: 207px;
+    margin-left: 600px;
+    margin-top: 100px;
+}
+.hop7{
+    margin-left: 800px;
+    margin-top: -50px
+}
+.hop8{
+    max-width: 1440px;
+    width: 100%;
+    height: 510px;
+    background-color: #C99B67;
+    margin-top: -300px;
+}
+.hop9{
+    width: 50px;
+    margin-left: 300px;
+    text-align: center;
+    color: aliceblue;
+}
+.box{
+    width: 569px;
+    margin-left: 100px;
+    margin-top: 100px;
+    color: white;
+}
+footer{
+    max-width: 1440px;
+    width: 100%;
+    height: 160px;
+    background-color: #F3D7B7;
+}
+.box1{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.box3{
+    display: flex;
+    gap: 20px;
+    margin-left: 450px;
+    margin-top: -30px;
+}
+.box4{
+    margin-left: 1200px;
+    margin-top: -90px;
+}
+.box5{
+    margin-left: 30px;
+}
+.box6{
+  margin-left: 30px;  
+}
